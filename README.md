@@ -1,4 +1,4 @@
-Temporary Ontology files
+Temporary Ontology files v0.01 2019-03-22
 ====================================
 
 termer_koncept_yrke.csv - yrkestitlar (arbetsgivarnas beskrivning från platsannonstexter, ej yrken enligt https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)
