@@ -1,7 +1,7 @@
 Temporary Ontology files v0.02 2019-12-05
 ====================================
 
-termer_koncept_yrke.csv - yrkestitlar (arbetsgivarnas beskrivning från platsannonstexter, ej yrken enligt https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/)/job titles  
+termer_koncept_yrke.csv - yrkestitlar (arbetsgivarnas beskrivning från platsannonstexter, ej yrken enligt https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/ ) /job title terms  
 termer_koncept_kompetens.csv - kompetensord/competences  
 termer_koncept_formaga.csv - förmågor/soft skills  
 
